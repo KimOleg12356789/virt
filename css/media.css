@@ -1,0 +1,804 @@
+
+
+
+
+
+@media screen and (max-width: 1300px) {
+	
+}
+
+@media screen and (max-width: 1250px){
+	
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	
+}	
+
+
+@media screen and (max-width: 1050px) {
+	
+
+  
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+	.cateslay-slayder {
+		padding: 0;
+	}
+
+	.cateslay-slayder:before {
+	    background: linear-gradient(90deg, rgba(251, 251, 251, 0) 0%, #F9F9F9 36.98%);
+	    position: absolute;
+	    top: 0;
+	    right: 0px;
+	    content: '';
+	    z-index: 1;
+	    width: 70px;
+	    height: 20px;
+	}
+
+	
+
+  .redaktanketa-border {
+      background: #FBFBFB;
+      box-shadow: 3px 3px 15px #f0f0f0;
+      border-radius: 10px;
+      padding: 50px 50px 30px 60px;
+  }
+
+
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.header-input input {
+	    font-size: 16px;
+	    line-height: 20px;
+	    margin: 0 0 0 0;
+	    width: 300px;
+	    color: #A5A5A5;
+	    padding: 0 0 0 10px;
+	    background: none;
+	    height: 40px;
+	    border: 1px solid #F13420;
+	    border-radius: 10px;
+	}
+
+  .redaktanketa-border {
+      background: #FBFBFB;
+      box-shadow: 3px 3px 15px #f0f0f0;
+      border-radius: 10px;
+      padding: 50px 30px 30px 40px;
+  }
+
+  .error-number {
+      position: absolute;
+      top: 30px;
+      left: 20px;
+      z-index: 0;
+      font-family: 'Montserrat-SemiBold';
+      font-size: 450px;
+      line-height: 307px;
+      color: #F3F3F3;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+
+
+
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+
+
+  .search_main .container {
+    padding: 0 15px 0 15px;
+}
+
+	 /*Burger*/
+
+  .burger {
+    display: block !important;
+  }
+
+  .mt-munu-mb .header-navigation-wr {
+    display: block !important;
+  }
+
+  .header-middle {
+  	display: none;
+  }
+
+  .header-right {
+  	display: none;
+  }
+
+  .header-wrap {
+  	position: relative;
+  	justify-content: center;
+  }
+
+  .header-logo {
+  	position: relative;
+  	z-index: 11;
+  }
+
+  .header-mb-button {
+  	display: block;
+  	position: absolute;
+  	right: 0;
+  	top: 10px;
+  	z-index: 11;
+  }
+
+  .header {
+  	padding: 20px 0;
+  }
+
+  .novoe {
+	    padding: 20px 0 0 0;
+	}
+
+
+	.novoe-title {
+		text-align: center;
+	}
+
+	.novoe-block {
+		width: 50%;
+	}
+
+	.novoe-img img {
+		width: 100%;
+	}
+
+	.category-link {
+		background-size: cover;
+	}
+
+	.category-link2 {
+		background-size: cover;
+	}
+
+	.category-link3 {
+		background-size: cover;
+	}
+
+	.category-link4 {
+		background-size: cover;
+	}
+
+  .zvonok-text-mb {
+    display: block;
+  }
+
+  .zvonok-inner-suptitle-pd {
+    padding: 15px 0 0 0;
+  }
+
+  .zvonok-wrap {
+    flex-wrap: wrap;
+  }
+
+  .zvonok-block {
+    width: 100%;
+    padding: 20px 0 0 0;
+  }
+
+  .zvonok-block2 {
+    width: 100%;
+    padding: 10px 0 0 0;
+  }
+
+  .zvonok-img img {
+    width: 100%;
+  }
+
+  .zvonok-inner {
+    display: none;
+  }
+
+  .zvonok-border {
+    height: 330px;
+  }
+
+  .zvonok-border-left-mb {
+    display: none;
+  }
+
+  .zvonok2-border {
+    display: none;
+  }
+
+  .stranicamodeli-wrap {
+    flex-wrap: wrap;
+  }
+
+  .stranicamodeli-conatiner {
+    padding: 0 0 0 10px;
+  }
+
+  .stranicamodeli-block {
+    width: 100%;
+    padding: 0;
+  }
+
+  .stranicamodeli-img {
+    padding: 0 10px 0 0;
+  }
+
+  .stranicamodeli-slayder {
+    padding: 10px 0 0 0;
+  }
+
+  .stranicamodeli-block2 {
+    width: 100%;
+    padding: 20px 10px 0 0;
+  }
+
+  .stranicamodeli-links {
+    position: relative;
+    padding: 10px 0 0 0;
+    bottom: 0;
+  }
+
+  .stranicamodeli-img img {
+    width: 100%;
+  }
+
+  .stranicamodeli-sl .slick-slide {
+    margin: 0 10px 0 0 !important;
+  }
+
+  .stranicamodeli-slayder:before {
+      background: linear-gradient(180deg, #FBFBFB 36.46%, rgba(251, 251, 251, 0) 100%);
+      position: absolute;
+      content: '';
+      width: 30px;
+      height: 70px;
+      top: 9px;
+      right: 6px;
+      z-index: 1;
+  }
+
+  .stranicamodeli-sl .slick-next {
+    top: 34px !important;
+    right: 13px !important;
+  }
+
+  .redaktanketa-border {
+      background: #FBFBFB;
+      box-shadow: 3px 3px 15px #f0f0f0;
+      border-radius: 10px;
+      padding: 30px 15px 30px 15px;
+  }
+
+  .redaktanketa-wrap {
+    flex-wrap: wrap;
+  }
+
+  .redaktanketa-block {
+    width: 100%;
+    padding: 0;
+  }
+
+  .redaktanketa-padding {
+    padding: 0 5px;
+  }
+
+  .redaktanketa-links {
+    padding: 3px 0 30px 0;
+  }
+
+  .redaktanketa-link {
+    padding: 10px 5px 0 5px;
+  }
+
+  .redaktanketa-link-button {
+    padding: 10px 5px 0 5px;
+  }
+
+  .redaktanketa-block2 {
+    width: 100%;
+    padding: 50px 0 0 0;
+  }
+
+  .redaktanketa-img img {
+    width: 100%;
+  }
+
+  .redaktanketa-padding2 {
+    padding: 0 5px;
+  }
+
+  .redaktanketa-wrap2-block {
+    padding: 15px 5px 0 5px;
+  }
+
+  .redaktanketa-wrap2-img img {
+    width: 100%;
+  }
+
+  .redaktanketa-wrap2-border {
+    height: 229px;
+  }
+
+  .redaktanketa-wrap2-block2 {
+    padding: 15px 5px 0 5px;
+  }
+
+  .redaktanketa-wrap2-border2 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .redaktanketa-wrap3-block {
+    padding: 0 5px 0 0;
+  }
+
+  .redaktanketa-wrap3-block2 {
+    padding: 0 0 0 5px;
+  }
+
+  .redaktanketa-wrap3-img img {
+    width: 100%;
+  }
+
+  .redaktanketa-wrap3-border {
+    height: 223px;
+  }
+
+  .lichniykabpol-tab {
+    display: block;
+  }
+
+  .lichniykabpol-border {
+    display: none;
+  }
+
+  .lichniykabpol-border2 {
+    background: none;
+    box-shadow: none;
+  }
+
+  .lichniykabpol-wrap2 {
+    padding: 0 0 30px 0;
+  }
+
+  .lichniykabpol-inner2-restagle {
+      position: absolute;
+      width: 94%;
+      left: 40px;
+      height: 1px;
+      background: #F3F3F3;
+      bottom: -10px;
+  }
+
+  .politika-border {
+    padding: 30px 20px;
+  }
+
+  .politika-suptitle {
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .error-border {
+      padding: 30px 20px 235px 20px;
+  }
+
+  .error-border:before {
+    background: url(../images/error-bg.png) 50% 100% no-repeat;
+  }
+
+  .error-border:before {
+    background-size: 340px;
+  }
+
+  .error-number {
+    font-size: 149px;
+    line-height: 182px;
+    top: auto;
+    bottom: 46px;
+    left: 210px;
+  }
+
+  .header-mobilenone {
+    display: none;
+  }
+
+
+
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	 
+
+   .zvonok-volume {
+    display: none;
+   }
+
+   .zvonok-time {
+      font-family: 'Montserrat-Medium';
+      font-size: 24px;
+      line-height: 29px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #F9F9F9;
+      position: absolute;
+      width: 100px;
+      height: 40px;
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(15px);
+      border-radius: 10px;
+      top: 10px;
+      right: 30px;
+  }
+
+   .zvonok-ekran2 {
+    display: none;
+   }
+
+   .redaktanketa-wrap2-block-mb {
+    display: block;
+   }
+
+   .redaktanketa-wrap2-border2 {
+    display: none;
+   }
+
+   .redaktanketa-wrap2-block {
+    width: 50%;
+   }
+
+   .redaktanketa-wrap3-border {
+    height: 182px;
+   }
+
+   .error-number {
+      font-size: 149px;
+      line-height: 182px;
+      top: auto;
+      bottom: 46px;
+      left: 144px;
+  }
+
+
+}
+
+@media screen and (max-width: 575px) {
+  	.footer-ul {
+  		flex-wrap: wrap;
+  		padding: 10px 0 0 0;
+  	}
+
+  	.footer-li {
+  		width: 100%;
+  		padding: 10px 0 0 0;
+  		display: flex;
+  		justify-content: center;
+  	}
+
+    .redaktanketa-wrap3-border {
+      height: 161px;
+    }
+
+    .error-number {
+      font-size: 149px;
+      line-height: 182px;
+      top: auto;
+      bottom: 46px;
+      left: 113px;
+    }
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	.novoe-block {
+  		width: 100%;
+  	}
+
+  	.novoe-block-mb {
+  		display: none;
+  	}
+
+  	.category-link {
+  		background: url(../images/category-link-mb.png) 0 0;
+  		height: 140px;
+  		padding: 10px 20px;
+  	}
+
+  	.category-link {
+  		background-size: cover;
+  	}
+
+  	.category-link2 {
+  		background: url(../images/category-link-mb2.png) 0 0;
+  		height: 140px;
+  		padding: 10px 20px;
+  	}
+
+  	.category-link3 {
+  		background: url(../images/category-link-mb3.png) 0 0;
+  		height: 140px;
+  		padding: 10px 20px;
+  	}
+
+  	.category-link4 {
+  		background: url(../images/category-link-mb4.png) 0 0	;
+  		height: 140px;
+  		padding: 10px 20px;
+  	}
+
+  	.category-link {
+  		background-size: cover;
+  	}
+
+  	.category-link2 {
+  		background-size: cover;
+  	}
+
+  	.category-link3 {
+  		background-size: cover;
+  	}
+
+  	.category-link4 {
+  		background-size: cover;
+  	}
+
+    .modal-border {
+      padding: 30px 20px;
+      max-width: 100%;
+      margin: 50px 10px 0 10px;
+    }
+
+    .modal-border2 {
+      padding: 30px 10px;
+      max-width: 100%;
+      margin: 50px 10px 0 10px;
+    }
+
+    .modal-border3 {
+      padding: 10px 20px 30px 20px;
+      max-width: 100%;
+      margin: 50px 10px 0 10px;
+    }
+
+    .modal-close-button {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+    }
+
+    .redaktanketa-wrap2-border {
+      height: 205px;
+    }
+
+    .redaktanketa-wrap3-border {
+      height: 131px;
+    }
+
+    .redaktanketa-button button {
+      width: 100%;
+    }
+
+    .lichniykabpol-button2 button {
+      width: 100%;
+    }
+
+    .lichniykabpol-wrap2 {
+      flex-wrap: wrap;
+    }
+
+    .lichniykabpol-wrap2-button {
+      width: 100%;
+      padding: 20px 0 0 0;
+    }
+
+    .lichniykabpol-wrap2-button button {
+      width: 100%;
+    }
+
+    .lichniykabpol-inner2-restagle {
+      position: absolute;
+      width: 91%;
+      left: 40px;
+      height: 1px;
+      background: #F3F3F3;
+      bottom: -10px;
+  }
+
+  .error-number {
+      font-size: 149px;
+      line-height: 182px;
+      top: auto;
+      bottom: 46px;
+      left: 65px;
+  }
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+
+  .dropdown .select {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .form_price2 {
+    width: 100%;
+    height: 37px;
+    font-size: 14px;
+  }
+
+  .form_price {
+    width: 100%;
+    font-size: 14px;
+    height: 37px;
+  }
+
+  .dropsize .select {
+    min-width: 100%;
+  }
+
+  .droptime .select {
+    min-width: 100%;
+    font-size: 14px;
+  }
+
+  .form_age {
+    width: 100%;
+    height: 37px;
+    font-size: 14px;
+  }
+
+  .form_search {
+    height: 39px;
+  }
+
+  	.stranicamodeli-sl .slick-list {
+      padding: 0 10% 0 0 !important;
+    }
+
+    .stranicamodeli-slayder:before {
+      background: linear-gradient(180deg, #FBFBFB 36.46%, rgba(251, 251, 251, 0) 100%);
+      position: absolute;
+      content: '';
+      width: 30px;
+      height: 70px;
+      top: 9px;
+      right: 0px;
+      z-index: 1;
+  }
+
+  .stranicamodeli-sl .slick-next {
+    right: 7px !important;
+  }
+
+  .redaktanketa-wrap3-border {
+    height: 110px;
+  }
+
+  .redaktanketa-wrap2-border {
+    height: 172px;
+  }
+
+  .error-border:before {
+    background-size: 290px;
+  }
+
+  .error-border {
+    padding: 30px 20px 210px 20px;
+  }
+
+  .error-number {
+    font-size: 149px;
+    line-height: 182px;
+    top: auto;
+    bottom: 37px;
+    left: 43px;
+  }
+
+  .zvonok-ne-chate-border {
+    width: 100%;
+  }
+
+  .zvonok-ne-chate-button button {
+    width: 40px;
+    height: 40px;
+  }
+
+  .zvonok-ne-chate-button button img {
+    width: 19px;
+  }
+
+  .zvonok-ne-chate-button2 button {
+    width: 40px;
+    height: 40px;
+  }
+
+  .zvonok-ne-chate-button2 button img {
+    width: 24px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .form_search {
+    height: 37px;
+  }
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+  .form_search {
+    height: 34px;
+  }
+
+	.stranicamodeli-sl .slick-list {
+      padding: 0 8% 0 0 !important;
+    }
+
+    .redaktanketa-wrap2-border {
+      height: 152px;
+    }
+
+    .redaktanketa-wrap3-border {
+      height: 97px;
+    }
+
+    .lichniykabpol-inner2-restagle {
+      position: absolute;
+      width: 87%;
+      left: 40px;
+      height: 1px;
+      background: #F3F3F3;
+      bottom: -10px;
+  }
+
+  .error-number {
+    font-size: 149px;
+    line-height: 182px;
+    top: auto;
+    bottom: 37px;
+    left: 25px;
+  }
+}
+
+@media screen and (max-width: 361px) {
+  .redaktanketa-wrap2-border {
+    height: 145px;
+  }
+
+  .redaktanketa-wrap3-border {
+    height: 92px;
+  }
+
+  .error-number {
+    font-size: 149px;
+    line-height: 182px;
+    top: auto;
+    bottom: 37px;
+    left: 17px;
+  }
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+	
+}
